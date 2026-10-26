@@ -162,11 +162,3 @@ This project is intended for learning about networking and cybersecurity. The au
 Users are responsible for complying with applicable laws, network policies, and authorization requirements.
 
 ## Author
-
-**Allain Dasantad**
-
-GitHub: [@AllainDasantad](https://github.com/AllainDasantad)
-
----
-
-*Built as a hands-on project to develop practical Python, Linux networking, and cybersecurity skills.*
